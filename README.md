@@ -3,6 +3,8 @@
 
 This is the source code for our BME4409 project. This is a modified version of the code found in the paper our project is based on that simulates a 24-hour period for a T1D patient undergoing physical exercise, found here: https://gitlab.com/csb.ethz/t1d-exercise-model
 
+The modification allows for the simulation of the effects of our 3 chosen stimuli on our baseline condition, which is a type 1 diabetic runner undergoing a 5-hour marathon during the 24-hour day. The chosen stimuli are: bolus insulin injections at mealtimes, increased epinephrine and its effect on basal glucose, and periodic carbohydrate consumption during the marathon. 
+
 ## How to run the code:
 
 1. Download all files as a zip folder to preserve directory structure
